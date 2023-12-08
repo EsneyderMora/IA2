@@ -11,6 +11,9 @@ Las enfermedades cardiovasculares, como los ataques cardíacos, siguen siendo un
 Este proyecto de IA tiene como objetivo desarrollar un modelo predictivo de ataques cardíacos que pueda ser utilizado por los profesionales de la salud para identificar a los pacientes con un mayor riesgo de sufrir un ataque cardíaco. Para lograr esto, se utilizarán técnicas de aprendizaje automático para analizar grandes conjuntos de datos médicos y determinar los factores de riesgo más significativos.
 
 DataSet: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+
 Codigo: https://colab.research.google.com/drive/1aI22CjGdFF1icGAoz7-HYbvfv1mwkcEq#scrollTo=i5aqsJaJY1qL
+
 Video: https://www.youtube.com/watch?v=5myi51LhMtI
+
 Diapositivas: https://gamma.app/docs/Proyecto-de-deep-learning-para-detectar-probabilidad-de-un-paro-c-hrnqww1ylov92ev?mode=doc#card-2du0mwwvtc8shj4
