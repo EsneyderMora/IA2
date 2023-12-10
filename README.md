@@ -12,7 +12,7 @@ Este proyecto de IA tiene como objetivo desarrollar un modelo predictivo de ataq
 
 DataSet: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
-Codigo: https://colab.research.google.com/drive/1ZhhLMVZT6q93SxghRvLTiqlIOzmNK6T_?usp=sharing#scrollTo=InkQGvcrNkaW
+Codigo: https://colab.research.google.com/drive/1gwBLG_nFhjldX8qPsmC9-5HHmiWsXeOS#scrollTo=yEIy0k0s85S0
 
 Video: https://www.youtube.com/watch?v=5myi51LhMtI
 
